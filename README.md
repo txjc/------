@@ -1,4 +1,5 @@
 # 上帝之手计划
+<<<<<<< HEAD
 ## 上帝之手可以让大家获得自由
 ## 上帝之手让万物平等
 ## 上帝之手爱着这个世界
@@ -11,3 +12,5 @@ aaaa
 =======
 真的开心吗？
 >>>>>>> parent of 9188e3d... Merge pull request #1 from txjc/branch1
+=======
+>>>>>>> parent of d675c4e... test
